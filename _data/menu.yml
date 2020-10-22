@@ -6,85 +6,85 @@ entries:
     url: false
     entries:
       - title: "روز اول: مانیفست گنو را بخوانید و آن را با هشتگ #GNU30 در یکی از شبکه‌های اجتماعی به اشتراک بگذارید."
+        url: https://www.gnu.org/gnu/manifesto.html
+      - title: "روز دوم: کار"
         url: false
-      - title: روز دوم: کار
+      - title: "روز سوم: کار"
         url: false
-      - title: روز سوم: کار
+      - title: "روز چهارم: کار"
         url: false
-      - title: روز چهارم: کار
+      - title: "روز پنجم: کار"
         url: false
-      - title: روز پنجم: کار
+      - title: "روز ششم: کار"
         url: false
-      - title: روز ششم: کار
-        url: false
-      - title: روز هفتم: کار
-        url: false
-        
-entries:
-  - title: هفته اول
-    url: false
-    entries:
-      - title: روز هشتم: کار
-        url: false
-      - title: روز نهم: کار
-        url: false
-      - title: روز دهم: کار
-        url: false
-      - title: روز یازدهم: کار
-        url: false
-      - title: روز دوازدهم: کار
-        url: false
-      - title: روز سیزدهم: کار
-        url: false
-      - title: روز چهاردهم: کار
+      - title: "روز هفتم: کار"
         url: false
         
 entries:
-  - title: هفته اول
+  - title: هفته دوم
     url: false
     entries:
-      - title: روز پونزدهم: کار
+      - title: "روز هشتم: کار"
         url: false
-      - title: روز شونزدهم: کار
+      - title: "روز نهم: کار"
         url: false
-      - title: روز هفدهم: کار
+      - title: "روز دهم: کار"
         url: false
-      - title: روز هجدهم: کار
+      - title: "روز یازدهم: کار"
         url: false
-      - title: روز نوزدهم: کار
+      - title: "روز دوازدهم: کار"
         url: false
-      - title: روز بیستم: کار
+      - title: "روز سیزدهم: کار"
         url: false
-      - title: روز بیست‌ویکم: کار
+      - title: "روز چهاردهم: کار"
         url: false
         
 entries:
-  - title: هفته اول
+  - title: هفته سوم
     url: false
     entries:
-      - title: روز بیست‌ودوم: کار
+      - title: "روز پونزدهم: کار"
         url: false
-      - title: روز بیست‌وسوم: کار
-        url: false
-      - title: روز بیست‌وچهارم: کار
-        url: false
-      - title: روز بیست‌وپنجم: کار
-        url: false
-      - title: روز بیست‌وششم: کار
-        url: false
-      - title: روز بیست‌وهفتم: کار
-        url: false
-      - title: روز بیست‌وهشتم: کار
-        url: false
-        
-entries:
-  - title: هفته اول
-    url: false
-    entries:
-      - title: روز بیست‌ونهم: کار
-        url: false
-      - title: روز سی‌ام: کار
-        url: false
+#      - title: ﺭﻭﺯ ﺵﻮﻧﺯﺪﻬﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﻪﻓﺪﻬﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﻪﺟﺪﻬﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﻥﻭﺯﺪﻬﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺘﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻭیکﻡ: کﺍﺭ
+#        url: false
+#
+#entries:
+#  - title: ﻪﻔﺘﻫ ﺍﻮﻟ
+#    url: false
+#    entries:
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻭﺩﻮﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻮﺳﻮﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻭچﻩﺍﺮﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻭپﻦﺠﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻮﺸﺸﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻮﻬﻔﺘﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻮﻬﺸﺘﻣ: کﺍﺭ
+#        url: false
+#
+#entries:
+#  - title: ﻪﻔﺘﻫ ﺍﻮﻟ
+#    url: false
+#    entries:
+#      - title: ﺭﻭﺯ ﺏیﺲﺗ<200c>ﻮﻨﻬﻣ: کﺍﺭ
+#        url: false
+#      - title: ﺭﻭﺯ ﺱی<200c>ﺎﻣ: کﺍﺭ
+#        url: false
 
   - title: نویسنده
     url: https://naghdbishi.ir
