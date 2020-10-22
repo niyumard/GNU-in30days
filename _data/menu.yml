@@ -2,36 +2,92 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: هفته اول
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: روز اول: مانیفست گنو را بخوانید و آن را با هشتگ \#gnu30 در یکی از شبکه‌های اجتماعی به اشتراک بگذارید.
         url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+      - title: روز دوم: کار
+        url: false
+      - title: روز سوم: کار
+        url: false
+      - title: روز چهارم: کار
+        url: false
+      - title: روز پنجم: کار
+        url: false
+      - title: روز ششم: کار
+        url: false
+      - title: روز هفتم: کار
+        url: false
+        
+entries:
+  - title: هفته اول
+    url: false
+    entries:
+      - title: روز هشتم: کار
+        url: false
+      - title: روز نهم: کار
+        url: false
+      - title: روز دهم: کار
+        url: false
+      - title: روز یازدهم: کار
+        url: false
+      - title: روز دوازدهم: کار
+        url: false
+      - title: روز سیزدهم: کار
+        url: false
+      - title: روز چهاردهم: کار
+        url: false
+        
+entries:
+  - title: هفته اول
+    url: false
+    entries:
+      - title: روز پونزدهم: کار
+        url: false
+      - title: روز شونزدهم: کار
+        url: false
+      - title: روز هفدهم: کار
+        url: false
+      - title: روز هجدهم: کار
+        url: false
+      - title: روز نوزدهم: کار
+        url: false
+      - title: روز بیستم: کار
+        url: false
+      - title: روز بیست‌ویکم: کار
+        url: false
+        
+entries:
+  - title: هفته اول
+    url: false
+    entries:
+      - title: روز بیست‌ودوم: کار
+        url: false
+      - title: روز بیست‌وسوم: کار
+        url: false
+      - title: روز بیست‌وچهارم: کار
+        url: false
+      - title: روز بیست‌وپنجم: کار
+        url: false
+      - title: روز بیست‌وششم: کار
+        url: false
+      - title: روز بیست‌وهفتم: کار
+        url: false
+      - title: روز بیست‌وهشتم: کار
+        url: false
+        
+entries:
+  - title: هفته اول
+    url: false
+    entries:
+      - title: روز بیست‌ونهم: کار
+        url: false
+      - title: روز سی‌ام: کار
+        url: false
 
-  - title: thoughts
-    post_list: true
-    url: false
-    entries: false
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    url: false
+  - title: نویسنده
+    url: https://naghdbishi.ir
     entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+      - title:  این اثر اقتباسی از  GNU-a-Day و تحت لایسنس CC BY-SA 4.0 است.
+        url: https://www.gnu.org/gnu30/gnu-a-day/
