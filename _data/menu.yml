@@ -17,8 +17,8 @@ entries:
         entries:
           - title: "توزیع‌های مورد تایید گنو"
             url: "https://www.gnu.org/distros/free-distros.html"
-          - title: "https://www.fsf.org/windows8"
-            url: "چرا ویندوز جاسوس‌افزار است؟"
+          - title: "چرا ویندوز جاسوس‌افزار است؟"
+            url: "https://www.fsf.org/windows8"
       - title: "روز سوم: به‌جای مایکروسافت آفیس از لیبره‌آفیس استفاده کنید."
         url: false
         entries:
