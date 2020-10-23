@@ -12,10 +12,22 @@ entries:
             url: "https://www.gnu.org/gnu/manifesto.html"
           - title: "به‌اشتراک‌گذاری"
             url: "http://www.fsf.org/share?u=http://u.fsf.org/manifesto&t=The%20GNU%20manifesto%20sparked%20a%20conversation%20that%20became%20the%20free%20software%20movement.%20Worth%20a%20read."
-      - title: "روز دوم: کار"
+      - title: "روز دوم: دوستان خوب مانع به تاراج رفتن حریم شخصی دوستان خود می‌شوند. یک توزیع مورد تایید گنو/لینوکس نصب کنید یا به یک دوست کمک کنید برای خود گنو/لینوکس نصب کند."
         url: false
-      - title: "روز سوم: کار"
+        entries:
+          - title: "توزیع‌های مورد تایید گنو"
+            url: "https://www.gnu.org/distros/free-distros.html"
+          - title: "https://www.fsf.org/windows8"
+            url: "چرا ویندوز جاسوس‌افزار است؟"
+      - title: "روز سوم: به‌جای مایکروسافت آفیس از لیبره‌آفیس استفاده کنید."
         url: false
+        entries:
+          - title: "سایت رسمی لیبره‌آفیس"
+            url: "https://libreoffice.org/"
+          - title: "قالب‌های لیبره‌آفیس به فارسی"
+            url: "https://persian-templates.net"
+          - title: "سایت فارسی و غیررسمی لیبره‌آفیس"
+            url: "https://libreoffice.ir/"      
       - title: "روز چهارم: کار"
         url: false
       - title: "روز پنجم: کار"
