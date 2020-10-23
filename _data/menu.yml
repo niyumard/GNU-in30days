@@ -6,7 +6,12 @@ entries:
     url: false
     entries:
       - title: "روز اول: مانیفست گنو را بخوانید و آن را با هشتگ #GNU30 در یکی از شبکه‌های اجتماعی به اشتراک بگذارید."
-        url: https://www.gnu.org/gnu/manifesto.html
+        url: 
+            entries:
+                - title: "مانیفست گنو"
+                url: https://www.gnu.org/gnu/manifesto.html
+                - title: "به‌اشتراک‌گذاری"
+                url: "http://www.fsf.org/share?u=http://u.fsf.org/manifesto&t=The%20GNU%20manifesto%20sparked%20a%20conversation%20that%20became%20the%20free%20software%20movement.%20Worth%20a%20read."
       - title: "روز دوم: کار"
         url: false
       - title: "روز سوم: کار"
